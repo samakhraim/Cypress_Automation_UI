@@ -2,6 +2,9 @@
 
 This repository contains a Cypress testing project for automated end-to-end testing of a web application. The project utilizes the Cypress testing framework, which provides a simple and powerful way to write and execute tests for web applications.
 
+## Videos
+[Staff menu test cases - Sama](cypress/videos/Staff_Menu.cy.js.mp4)
+
 ### Features
 
 - **End-to-end testing**: The project includes test cases that cover different functionalities of the web application, ensuring thorough test coverage.
