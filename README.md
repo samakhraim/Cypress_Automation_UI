@@ -4,6 +4,10 @@ This repository contains a Cypress testing project for automated end-to-end test
 
 ## Videos
 [Staff menu test cases - Sama](cypress/videos/Staff_Menu.cy.js.mp4)
+[Filter test cases - Aya](cypress/videos/filter.cy.js.mp4) 
+
+## Test Cases
+[Test Cases](Goals-TestCases.xlsx) 
 
 ### Features
 
